@@ -4,7 +4,7 @@ My father is a business owner who does not know much Enlgish. He does not know h
 
 2)Clients's Address  
 
-3) Item Description
+3)Item Description
 
 4)Quantity  
 
